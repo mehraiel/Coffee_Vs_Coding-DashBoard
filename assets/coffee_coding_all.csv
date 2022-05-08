@@ -1,0 +1,186 @@
+,CodingHours,CoffeeCupsPerDay,CoffeeTime,CodingWithoutCoffee,CoffeeType,CoffeeSolveBugs,Gender,Country,AgeRange
+0,8.0,2.0,Before coding,Yes,Caffè latte,Sometimes,Female,Lebanon,18 to 29
+1,3.0,2.0,Before coding,Yes,Americano,Yes,Female,Lebanon,30 to 39
+2,5.0,3.0,While coding,No,Nescafe,Yes,Female,Lebanon,18 to 29
+3,8.0,2.0,Before coding,No,Nescafe,Yes,Male,Lebanon,18 to 29
+4,10.0,3.0,While coding,Sometimes,Turkish,No,Male,Lebanon,18 to 29
+5,8.0,2.0,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+6,5.0,2.0,While coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+7,10.0,4.0,Before coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+8,10.0,2.0,While coding,Yes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+9,10.0,2.0,While coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+10,10.0,3.0,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+11,2.0,3.0,Before coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+12,8.0,2.0,Before and while coding,No,Nescafe,Yes,Male,Lebanon,30 to 39
+13,9.0,3.0,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+14,6.0,1.0,Before coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+15,6.0,3.0,While coding,No,Americano,Yes,Female,Lebanon,30 to 39
+16,10.0,3.0,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+17,6.0,4.0,While coding,Yes,Turkish,Sometimes,Male,Lebanon,30 to 39
+18,8.0,3.0,While coding,No,Nescafe,No,Male,Lebanon,18 to 29
+19,3.0,1.0,In the morning,Yes,Nescafe,Sometimes,Female,Lebanon,30 to 39
+20,3.0,3.0,While coding,Yes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+21,9.0,5.0,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,18 to 29
+22,4.0,2.0,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+23,8.0,3.0,While coding,No,Turkish,No,Male,Lebanon,40 to 49
+24,5.0,3.0,While coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,Under 18
+25,6.0,3.0,While coding,Yes,Nescafe,No,Female,Lebanon,30 to 39
+26,7.0,4.0,Before coding,Sometimes,Espresso (Short Black),No,Male,Lebanon,30 to 39
+27,8.0,4.0,While coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+28,7.0,1.0,Before coding,Yes,Nescafe,Yes,Male,Lebanon,30 to 39
+29,2.0,2.0,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,40 to 49
+30,10.0,6.0,All the time,No,American Coffee,Yes,Male,Lebanon,30 to 39
+31,2.0,2.0,While coding,No,Nescafe,Sometimes,Female,Lebanon,18 to 29
+32,9.0,2.0,Before coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+33,4.0,1.0,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+34,6.0,2.0,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+35,2.0,2.0,While coding,Yes,American Coffee,No,Male,Lebanon,30 to 39
+36,2.0,3.0,All the time,Sometimes,Turkish,Sometimes,Male,Lebanon,30 to 39
+37,7.0,7.0,After coding,Yes,Turkish,Yes,Female,Lebanon,40 to 49
+38,1.0,1.0,While coding,Yes,Cappuccino,Yes,Male,Lebanon,40 to 49
+39,4.0,2.0,While coding,Yes,Turkish,No,Male,Lebanon,50 to 59
+40,8.0,2.0,While coding,Sometimes,Turkish,No,Male,Lebanon,30 to 39
+41,8.0,4.0,While coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+42,3.0,2.0,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,30 to 39
+43,10.0,6.0,While coding,Sometimes,Nescafe,No,Male,Lebanon,18 to 29
+44,3.0,2.0,After coding,Yes,Espresso (Short Black),Sometimes,Male,Lebanon,40 to 49
+45,7.0,2.0,While coding,Sometimes,American Coffee,No,Female,Lebanon,18 to 29
+46,2.0,1.0,While coding,Sometimes,Caffè latte,No,Female,Lebanon,18 to 29
+47,9.0,1.0,In the morning,Yes,Nescafe,No,Female,Lebanon,18 to 29
+48,8.0,2.0,Before coding,No,Nescafe,No,Female,Lebanon,18 to 29
+49,6.0,1.0,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+50,6.0,1.0,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+51,8.0,3.0,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+52,8.0,2.0,Before coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+53,3.0,3.0,While coding,No,Turkish,No,Male,Lebanon,18 to 29
+54,7.0,4.0,No specific time,Yes,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+55,4.0,7.0,Before and while coding,No,Double Espresso (Doppio),Sometimes,Male,Lebanon,18 to 29
+56,6.0,4.0,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+57,10.0,8.0,While coding,No,Turkish,Sometimes,Male,Lebanon,18 to 29
+58,8.0,2.0,While coding,Sometimes,Turkish,No,Male,Lebanon,18 to 29
+59,2.0,4.0,While coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,40 to 49
+60,6.0,2.0,Before coding,Yes,Caffè latte,No,Male,Lebanon,18 to 29
+61,7.0,4.0,While coding,No,American Coffee,Sometimes,Male,Lebanon,18 to 29
+62,8.0,2.0,While coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+63,7.0,4.0,Before coding,No,Turkish,Yes,Male,Lebanon,18 to 29
+64,8.0,4.0,While coding,No,American Coffee,Sometimes,Male,Lebanon,18 to 29
+65,8.0,2.0,Before coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+66,6.0,1.0,In the morning,Yes,Nescafe,No,Female,Lebanon,30 to 39
+67,10.0,2.0,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+68,8.0,4.0,Before and while coding,No,Turkish,Yes,Male,Lebanon,18 to 29
+69,10.0,6.0,While coding,Sometimes,Double Espresso (Doppio),No,Male,Lebanon,30 to 39
+70,6.0,4.0,While coding,Sometimes,Espresso (Short Black),Yes,Male,Lebanon,18 to 29
+71,10.0,8.0,All the time,No,American Coffee,Yes,Male,Lebanon,18 to 29
+72,5.0,5.0,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+73,8.0,4.0,Before and while coding,Sometimes,Turkish,Sometimes,Male,Lebanon,30 to 39
+74,4.0,2.0,While coding,No,Nescafe,Yes,Female,Lebanon,18 to 29
+75,6.0,6.0,While coding,Sometimes,Cappuccino,No,Male,Lebanon,18 to 29
+76,8.0,2.0,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,30 to 39
+77,9.0,3.0,While coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+78,7.0,2.0,While coding,Sometimes,Caffè latte,No,Male,Lebanon,18 to 29
+79,4.0,5.0,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+80,2.0,1.0,While coding,Yes,Nescafe,No,Male,Lebanon,18 to 29
+81,7.0,3.0,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+82,6.0,3.0,While coding,Yes,Nescafe,Yes,Female,Lebanon,18 to 29
+83,3.0,3.0,While coding,Sometimes,Caffè latte,Sometimes,Male,Lebanon,18 to 29
+84,10.0,2.0,While coding,Yes,American Coffee,No,Male,Lebanon,18 to 29
+85,10.0,3.0,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+86,3.0,1.0,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+87,3.0,3.0,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+88,9.0,7.0,All the time,No,Espresso (Short Black),Yes,Male,Lebanon,18 to 29
+89,10.0,1.0,Before coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+90,7.0,1.0,Before coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+91,5.0,3.0,While coding,Sometimes,Turkish,Sometimes,Female,Lebanon,18 to 29
+92,5.0,2.0,Before coding,Sometimes,Nescafe,Yes,Female,Lebanon,18 to 29
+93,3.0,1.0,Before coding,Yes,Nescafe,No,Female,Lebanon,18 to 29
+94,4.0,2.0,While coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+95,6.0,2.0,Before coding,Yes,Nescafe,Yes,Male,Lebanon,18 to 29
+96,4.0,1.0,Before coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+97,10.0,3.0,Before coding,Yes,Cappuccino,Yes,Male,Lebanon,Under 18
+98,2.0,2.0,While coding,Sometimes,Espresso (Short Black),Sometimes,Female,Lebanon,18 to 29
+99,10.0,4.0,Before coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Lebanon,18 to 29
+100,3.0,3.0,Before and while coding,No,Cappuccino,Yes,Female,Egypt,18 to 29
+101,8.0,8.0,Before and while coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+102,3.0,3.0,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+103,5.0,5.0,Before and while coding,No,Nescafe,Yes,Female,Egypt,18 to 29
+104,3.0,3.0,No specific time,Sometimes,Cappuccino,Sometimes,Female,Egypt,18 to 29
+105,5.0,5.0,Before and while coding,Yes,Caffè latte,Sometimes,Female,Egypt,18 to 29
+106,4.0,4.0,No specific time,Sometimes,Nescafe,No,Female,Egypt,18 to 29
+107,5.0,5.0,Before and while coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+108,2.0,2.0,Before and while coding,No,Turkish,Sometimes,Male,Egypt,18 to 29
+109,8.0,8.0,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+110,3.0,3.0,No specific time,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+111,3.0,3.0,No specific time,Yes,Cappuccino,Yes,Female,Egypt,18 to 29
+112,4.0,4.0,No specific time,Yes,Nescafe,No,Male,Egypt,18 to 29
+113,5.0,5.0,Before coding,No,Nescafe,No,Female,Egypt,18 to 29
+114,7.0,7.0,No specific time,No,Double Espresso (Doppio),Sometimes,Male,Egypt,18 to 29
+115,4.0,4.0,Before and while coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+116,3.0,3.0,While coding,Yes,Turkish,Sometimes,Male,Egypt,18 to 29
+117,6.0,6.0,Before and while coding,Sometimes,Nescafe,Yes,Female,Egypt,18 to 29
+118,5.0,5.0,No specific time,Yes,Nescafe,No,Male,Egypt,18 to 29
+119,5.0,5.0,Before and while coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+120,5.0,5.0,No specific time,Sometimes,Nescafe,No,Female,Egypt,18 to 29
+121,12.0,12.0,Before and while coding,Sometimes,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+122,5.0,5.0,Before and while coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+123,2.0,2.0,Before coding,Yes,Nescafe,No,Male,Egypt,18 to 29
+124,5.0,5.0,No specific time,Yes,Cappuccino,No,Male,Egypt,18 to 29
+125,5.0,5.0,No specific time,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+126,4.0,4.0,No specific time,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+127,4.0,4.0,Before coding,Yes,American Coffee,No,Male,Egypt,18 to 29
+128,2.0,2.0,No specific time,No,Turkish,Yes,Female,Egypt,18 to 29
+129,10.0,10.0,No specific time,Sometimes,Espresso (Short Black),Sometimes,Female,Egypt,18 to 29
+130,6.0,6.0,No specific time,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+131,0.0,0.0,No specific time,Yes,Caffè latte,Sometimes,Male,Egypt,18 to 29
+132,4.0,4.0,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+133,5.0,5.0,Before coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Egypt,18 to 29
+134,6.0,6.0,Before coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Egypt,18 to 29
+135,3.0,3.0,No specific time,Sometimes,Nescafe,Yes,Male,Egypt,18 to 29
+136,8.0,8.0,Before and while coding,Yes,Cappuccino,Yes,Male,Egypt,18 to 29
+137,1.0,1.0,While coding,Yes,Cappuccino,Sometimes,Male,Egypt,18 to 29
+138,4.0,4.0,Before coding,Sometimes,Turkish,Sometimes,Female,Egypt,18 to 29
+139,4.0,4.0,No specific time,No,Cappuccino,Sometimes,Female,Egypt,18 to 29
+140,4.0,4.0,No specific time,Yes,Caffè latte,No,Female,Egypt,18 to 29
+141,6.0,6.0,While coding,No,Turkish,Yes,Male,Egypt,18 to 29
+142,4.0,4.0,Before coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+143,6.0,6.0,While coding,No,Caffè latte,No,Female,Egypt,18 to 29
+144,0.0,0.0,No specific time,No,Nescafe,No,Female,Egypt,18 to 29
+145,4.0,4.0,While coding,No,Turkish,Yes,Male,Egypt,18 to 29
+146,6.0,6.0,Before coding,No,Turkish,Yes,Male,Egypt,18 to 29
+147,5.0,5.0,Before and while coding,Sometimes,Nescafe,No,Male,Egypt,18 to 29
+148,10.0,10.0,No specific time,Yes,Caffè latte,No,Male,Egypt,18 to 29
+149,9.0,9.0,Before coding,No,Turkish,Sometimes,Female,Egypt,18 to 29
+150,10.0,10.0,While coding,Yes,Turkish,No,Female,Egypt,18 to 29
+151,5.0,5.0,No specific time,No,Cappuccino,No,Female,Egypt,18 to 29
+152,4.0,4.0,No specific time,Yes,Caffè latte,No,Female,Egypt,18 to 29
+153,10.0,10.0,While coding,Yes,Turkish,Sometimes,Male,Egypt,18 to 29
+154,12.0,12.0,No specific time,No,Nescafe,Sometimes,Female,Egypt,18 to 29
+155,8.0,8.0,While coding,Sometimes,Caffè latte,Sometimes,Male,Egypt,18 to 29
+156,10.0,10.0,No specific time,Sometimes,American Coffee,Sometimes,Female,Egypt,18 to 29
+157,4.0,4.0,Before and while coding,Sometimes,Cappuccino,Sometimes,Female,Egypt,18 to 29
+158,2.0,2.0,No specific time,Sometimes,Turkish,Yes,Female,Egypt,18 to 29
+159,8.0,8.0,Before and while coding,Sometimes,Turkish,Yes,Male,Egypt,18 to 29
+160,15.0,15.0,Before coding,No,Turkish,Yes,Male,Egypt,18 to 29
+161,5.0,5.0,Before and while coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+162,4.0,4.0,No specific time,No,Nescafe,No,Male,Egypt,18 to 29
+163,5.0,5.0,No specific time,Yes,Nescafe,Sometimes,Male,Egypt,18 to 29
+164,3.0,3.0,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+165,3.0,3.0,No specific time,Yes,Nescafe,No,Male,Egypt,18 to 29
+166,2.0,2.0,Before coding,Yes,Nescafe,Sometimes,Female,Egypt,18 to 29
+167,10.0,10.0,Before coding,No,Turkish,Sometimes,Male,Egypt,18 to 29
+168,5.0,5.0,Before and while coding,No,American Coffee,Yes,Female,Egypt,18 to 29
+169,3.0,3.0,Before and while coding,Sometimes,Turkish,Sometimes,Female,Egypt,18 to 29
+170,2.0,2.0,While coding,Sometimes,American Coffee,Sometimes,Female,Egypt,18 to 29
+171,8.0,8.0,Before and while coding,No,Nescafe,Yes,Male,Egypt,18 to 29
+172,5.0,5.0,No specific time,Yes,Caffè latte,Sometimes,Female,Egypt,18 to 29
+173,5.0,5.0,Before and while coding,No,Caffè latte,Sometimes,Male,Egypt,18 to 29
+174,4.0,4.0,No specific time,Yes,Nescafe,No,Female,Egypt,18 to 29
+175,7.0,7.0,Before and while coding,Yes,Nescafe,Yes,Female,Egypt,18 to 29
+176,5.0,5.0,Before and while coding,No,American Coffee,Sometimes,Female,Egypt,18 to 29
+177,8.0,8.0,Before and while coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+178,9.0,9.0,Before coding,Yes,Caffè latte,Yes,Female,Egypt,18 to 29
+179,5.0,5.0,No specific time,No,Turkish,Sometimes,Female,Egypt,18 to 29
+180,6.0,6.0,Before and while coding,Sometimes,Turkish,Sometimes,Female,Egypt,18 to 29
+181,6.0,6.0,Before and while coding,No,Caffè latte,Yes,Female,Egypt,18 to 29
+182,4.0,4.0,No specific time,Yes,Turkish,No,Male,Egypt,18 to 29
+183,8.0,8.0,Before and while coding,No,Cappuccino,Sometimes,Female,Egypt,18 to 29
+184,8.0,4.0,No specific time,Yes,Turkish,No,Male,Egypt,18 to 29
